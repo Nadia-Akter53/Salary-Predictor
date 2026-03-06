@@ -128,13 +128,3 @@ Coefficients:
 
 
 ----
-
-## 📸 Screenshots
-
-## 📸 Screenshots
-
-| | |
-|---|---|
-| ![Screenshot 1](https://github.com/Nadia-Akter53/Salary-Predictor/raw/main/Screenshot%202026-03-06%20120225.png) | ![Screenshot 2](https://github.com/Nadia-Akter53/Salary-Predictor/raw/main/Screenshot%202026-03-06%20120255.png) |
-| ![Screenshot 3](https://github.com/Nadia-Akter53/Salary-Predictor/raw/main/Screenshot%202026-03-06%20120320.png) | ![Screenshot 4](https://github.com/Nadia-Akter53/Salary-Predictor/raw/main/Screenshot%202026-03-06%20120344.png) |
-| ![Screenshot 5](https://github.com/Nadia-Akter53/Salary-Predictor/raw/main/Screenshot%202026-03-06%20120447.png) | |
