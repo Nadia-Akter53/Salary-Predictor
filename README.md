@@ -123,5 +123,11 @@ Coefficients:
 - job_title: 1,252.23
 - company_location: 489.71
 - employee_residence: 1,148.63
+
+
+## 📸 Screenshots
+
+<img src="images" width="400">
+
 - remote_ratio: 109.00
 - company_size: -11,628.47
