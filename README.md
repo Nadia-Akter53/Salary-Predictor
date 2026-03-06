@@ -123,11 +123,24 @@ Coefficients:
 - job_title: 1,252.23
 - company_location: 489.71
 - employee_residence: 1,148.63
+- remote_ratio: 109.00
+- company_size: -11,628.47
 
+
+----
 
 ## 📸 Screenshots
 
-<img src="images" width="400">
+<p align="center">
+  <img src="Screenshot%202026-03-06%20120225.png" width="400">
+  <img src="Screenshot%202026-03-06%20120255.png" width="400">
+</p>
 
-- remote_ratio: 109.00
-- company_size: -11,628.47
+<p align="center">
+  <img src="Screenshot%202026-03-06%20120320.png" width="400">
+  <img src="Screenshot%202026-03-06%20120344.png" width="400">
+</p>
+
+<p align="center">
+  <img src="Screenshot%202026-03-06%20120447.png" width="600">
+</p>
