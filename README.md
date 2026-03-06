@@ -131,16 +131,20 @@ Coefficients:
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="Screenshot%202026-03-06%20120225.png" width="400">
-  <img src="Screenshot%202026-03-06%20120255.png" width="400">
-</p>
+![](Screenshot%202026-03-06%20120225.png)
 
-<p align="center">
-  <img src="Screenshot%202026-03-06%20120320.png" width="400">
-  <img src="Screenshot%202026-03-06%20120344.png" width="400">
-</p>
+---
 
-<p align="center">
-  <img src="Screenshot%202026-03-06%20120447.png" width="600">
-</p>
+![](Screenshot%202026-03-06%20120255.png)
+
+---
+
+![](Screenshot%202026-03-06%20120320.png)
+
+---
+
+![](Screenshot%202026-03-06%20120344.png)
+
+---
+
+![](Screenshot%202026-03-06%20120447.png)
