@@ -22,7 +22,7 @@ An end-to-end Flask-based ML application featuring:
 
 🔍 Real-time salary prediction using Linear Regression model  
 🧼 Complete data preprocessing pipeline (cleaning, encoding with LabelEncoder)  
-📈 Model evaluation: R² Score (0.75), MAE (~$35,000), RMSE (~$48,000)  
+📈 Model evaluation: R² Score (0.75). 
 📊 Feature analysis based on 8 key factors  
 🧪 Statistical testing with train/test split (80/20) and K-Fold Cross Validation  
 🎨 Glassmorphism UI design with animated background  
