@@ -71,7 +71,7 @@ K-Fold Cross Validation (Used for robustness)
 💡 Designed a clean and user-friendly interface  
 🧠 Trained and validated Linear Regression model with proper evaluation  
 ☁️ Deployed the project to PythonAnywhere  
-📊 Achieved R² Score: 0.306 (31%) with 8 features  
+📊 Achieved R² Score: 0.75 (75%) with 8 features  
 🎨 Implemented animated background with Canvas API  
 📱 Made fully responsive for all devices  
 
