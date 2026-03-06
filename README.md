@@ -131,20 +131,8 @@ Coefficients:
 
 ## 📸 Screenshots
 
-![](Screenshot%202026-03-06%20120225.png)
-
----
-
-![](Screenshot%202026-03-06%20120255.png)
-
----
-
-![](Screenshot%202026-03-06%20120320.png)
-
----
-
-![](Screenshot%202026-03-06%20120344.png)
-
----
-
-![](Screenshot%202026-03-06%20120447.png)
+![]([https://github.com/nadia53/ml-salary-predictor/blob/main/Screenshot%202026-03-06%20120225.png?raw=true](https://github.com/Nadia-Akter53/Salary-Predictor/blob/main/image/Screenshot%202026-03-06%20120225.png))
+![]([https://github.com/nadia53/ml-salary-predictor/blob/main/Screenshot%202026-03-06%20120255.png?raw=true](https://github.com/Nadia-Akter53/Salary-Predictor/blob/main/image/Screenshot%202026-03-06%20120255.png))
+![]([https://github.com/nadia53/ml-salary-predictor/blob/main/Screenshot%202026-03-06%20120320.png?raw=true](https://github.com/Nadia-Akter53/Salary-Predictor/blob/main/image/Screenshot%202026-03-06%20120320.png))
+![]([https://github.com/nadia53/ml-salary-predictor/blob/main/Screenshot%202026-03-06%20120344.png?raw=true](https://github.com/Nadia-Akter53/Salary-Predictor/blob/main/image/Screenshot%202026-03-06%20120344.png))
+![]([https://github.com/nadia53/ml-salary-predictor/blob/main/Screenshot%202026-03-06%20120447.png?raw=true](https://github.com/Nadia-Akter53/Salary-Predictor/blob/main/image/Screenshot%202026-03-06%20120447.png))
